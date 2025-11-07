@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Version 5
+=======
+Version 3
+
+beta feature v2
+>>>>>>> beta
