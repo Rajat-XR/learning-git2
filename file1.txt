@@ -2,4 +2,4 @@ Version 7
 
 beta feature v4
 
-alpha feature v2
+alpha feature v4
